@@ -1,0 +1,12 @@
+.bundle
+db/*.sql2
+db/*.sql
+log/*.log
+tmp/**/*
+*.log
+tmp/*
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
